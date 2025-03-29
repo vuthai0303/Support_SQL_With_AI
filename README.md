@@ -50,6 +50,7 @@ This project provides a seamless workflow:
 
 ## Project Structure
 
+```
 SUPPORT_SQL_WITH_AI/
 ├── node_modules/ # Project dependencies
 ├── public/ # Static assets and index.html
@@ -68,6 +69,7 @@ SUPPORT_SQL_WITH_AI/
 │ └── main.jsx # Entry point of the React application
 ├── package.json # Project configuration and scripts
 └── tailwind.config.js # Tailwind CSS configuration
+```
 
 ## Getting Started
 
